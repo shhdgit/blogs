@@ -14,6 +14,7 @@
 
 1. [两次移动web开发的总结](https://github.com/shhdgit/blogs/issues/2)
 1. [Webpack打包代码量增大问题](https://github.com/shhdgit/blogs/issues/3)
+1. [图解Forking Workflow](https://github.com/shhdgit/blogs/issues/10)
 
 ## [翻译](https://github.com/shhdgit/blogs/labels/%E7%BF%BB%E8%AF%91)
 
