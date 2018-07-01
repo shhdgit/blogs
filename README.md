@@ -10,6 +10,7 @@
 
 1.  [2018 年，前端框架 Angular 了解一下？](https://github.com/shhdgit/blogs/issues/9)
 1.  [如何利用 ControlValueAccessor 实现自定义表单](https://github.com/shhdgit/blogs/issues/11)
+1.  [图解 ngrx 基本概念](https://github.com/shhdgit/blogs/issues/13)
 
 ## [项目开发](https://github.com/shhdgit/blogs/issues?q=is%3Aissue+is%3Aopen+label%3A%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91)
 
