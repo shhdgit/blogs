@@ -26,5 +26,5 @@
 
 ## 草稿
 
-1.  [依赖注入理解]()
-1.  [前端路由原理]()
+1.  [依赖注入理解](https://github.com/shhdgit/blogs/issues/14)
+1.  [前端路由原理](https://github.com/shhdgit/blogs/issues/15)
