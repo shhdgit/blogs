@@ -23,3 +23,8 @@
 
 1.  [[译]Angular-关于`ExpressionChangedAfterItHasBeenCheckedError`你需要知道的一切](https://github.com/shhdgit/blogs/issues/7)
 1.  [[译]在 Go 中使用'self'作为 receiver 变量是一种好的实践吗？](https://github.com/shhdgit/blogs/issues/8)
+
+## 草稿
+
+1.  [依赖注入理解]()
+1.  [前端路由原理]()
