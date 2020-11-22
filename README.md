@@ -2,7 +2,7 @@
 
 ## 2020-11
 
-1.  [[2020-11]Vue, React, Angular 分别是如何做到数据驱动视图的？](https://github.com/shhdgit/blogs/issues/16)
+1.  [Vue, React, Angular 分别是如何做到数据驱动视图的？](https://github.com/shhdgit/blogs/issues/16)
 
 ## [JavaScript](https://github.com/shhdgit/blogs/issues?q=is%3Aopen+is%3Aissue+label%3AJavaScript)
 
