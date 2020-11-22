@@ -1,5 +1,9 @@
 # blogs
 
+## 2020-11
+
+1.  [[2020-11]Vue, React, Angular 分别是如何做到数据驱动视图的？](https://github.com/shhdgit/blogs/issues/16)
+
 ## [JavaScript](https://github.com/shhdgit/blogs/issues?q=is%3Aopen+is%3Aissue+label%3AJavaScript)
 
 1.  [深入学习 JavaScript 之一：bind 函数的实现](https://github.com/shhdgit/blogs/issues/1)
@@ -28,4 +32,3 @@
 
 1.  [[2020-11]依赖注入理解](https://github.com/shhdgit/blogs/issues/14)
 1.  [[2020-11]为 vue3 实现 matrix router](https://github.com/shhdgit/blogs/issues/15)
-1.  [[2020-11]Vue, React, Angular 分别是如何做到数据驱动视图的？](https://github.com/shhdgit/blogs/issues/16)
