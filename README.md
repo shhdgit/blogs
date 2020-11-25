@@ -3,6 +3,8 @@
 ## 2020-11
 
 1.  [Vue, React, Angular 分别是如何做到数据驱动视图的？](https://github.com/shhdgit/blogs/issues/16)
+1.  [为 vue3 实现 matrix router](https://github.com/shhdgit/blogs/issues/15)
+1.  [依赖注入理解](https://github.com/shhdgit/blogs/issues/14)
 
 ## [JavaScript](https://github.com/shhdgit/blogs/issues?q=is%3Aopen+is%3Aissue+label%3AJavaScript)
 
@@ -27,8 +29,3 @@
 
 1.  [[译]Angular-关于`ExpressionChangedAfterItHasBeenCheckedError`你需要知道的一切](https://github.com/shhdgit/blogs/issues/7)
 1.  [[译]在 Go 中使用'self'作为 receiver 变量是一种好的实践吗？](https://github.com/shhdgit/blogs/issues/8)
-
-## 草稿
-
-1.  [[2020-11]依赖注入理解](https://github.com/shhdgit/blogs/issues/14)
-1.  [[2020-11]为 vue3 实现 matrix router](https://github.com/shhdgit/blogs/issues/15)
