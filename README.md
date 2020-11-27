@@ -4,7 +4,7 @@
 
 1.  [Vue, React, Angular 分别是如何做到数据驱动视图的？](https://github.com/shhdgit/blogs/issues/16)
 1.  [[草稿]为 vue3 实现 matrix router](https://github.com/shhdgit/blogs/issues/15)
-1.  [[草稿]依赖注入理解](https://github.com/shhdgit/blogs/issues/14)
+1.  [依赖注入理解](https://github.com/shhdgit/blogs/issues/14)
 
 ## [JavaScript](https://github.com/shhdgit/blogs/issues?q=is%3Aopen+is%3Aissue+label%3AJavaScript)
 
