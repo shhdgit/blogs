@@ -2,6 +2,7 @@
 
 ## 2020-12
 
+1.  [[草稿]聊聊 redux](https://github.com/shhdgit/blogs/issues/18)
 1.  [[草稿]自定义 vue-loader](https://github.com/shhdgit/blogs/issues/17)
 
 ## 2020-11
