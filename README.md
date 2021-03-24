@@ -2,12 +2,12 @@
 
 ## 2020-12
 
-1.  [[草稿]聊聊 redux](https://github.com/shhdgit/blogs/issues/18)
-1.  [[草稿]自定义 vue-loader](https://github.com/shhdgit/blogs/issues/17)
+1.  [[WIP]聊聊 redux](https://github.com/shhdgit/blogs/issues/18)
+1.  [[WIP]自定义 vue-loader](https://github.com/shhdgit/blogs/issues/17)
 
 ## 2020-11
 
-1.  [Vue, React, Angular 分别是如何做到数据驱动视图的？](https://github.com/shhdgit/blogs/issues/16)
+1.  [[WIP]Vue, React, Angular 分别是如何做到数据驱动视图的？](https://github.com/shhdgit/blogs/issues/16)
 1.  [Introduce matrix router](https://github.com/shhdgit/blogs/issues/15)
 1.  [依赖注入理解](https://github.com/shhdgit/blogs/issues/14)
 
